@@ -33,9 +33,9 @@
 
 
 ## Application
-![Application Interface](application_images/query_answer.png)
+![Application Interface](DataDialog/application_images/query_answer.png)
 
-![Advantages](application_images/query_visualization.png)
+![Advantages](DataDialog/application_images/query_visualization.png)
 
 
 ## To run application on your local server
