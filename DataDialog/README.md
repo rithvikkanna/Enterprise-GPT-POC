@@ -40,7 +40,7 @@
 
 ## To run application on your local server
 ```commandline
-git clone https://github.com/nxtwave-tech/DataDialog/
+https://github.com/rithvikkanna/Enterprise-GPT-POC.git
 ```
 Make sure you run the below commands in virtual environment..
 ```commandline
